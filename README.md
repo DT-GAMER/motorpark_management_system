@@ -14,7 +14,7 @@
 
 + This will start a local server on http://localhost:5000/ where you can access the application.
 
-The application provides the following functionalities:
+# The application provides the following functionalities:
 
 + Car owner registration and management
 
@@ -32,16 +32,16 @@ The application provides the following functionalities:
 
 + Python 3
 
-Flask
++ Flask
 
-Flask-Mail
++ Flask-Mail
 
-Flask-WTF
++ Flask-WTF
 
-PyMySQL
++ PyMySQL
 
-PyJWT
++ PyJWT
 
-PyFingerprint
++ PyFingerprint
 
-bcrypt
++ bcrypt
